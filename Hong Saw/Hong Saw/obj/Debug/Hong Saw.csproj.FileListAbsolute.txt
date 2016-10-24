@@ -1,0 +1,9 @@
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\bin\Debug\Hong Saw.exe.config
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\bin\Debug\Hong Saw.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\bin\Debug\Hong Saw.pdb
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong Saw.csprojResolveAssemblyReference.cache
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong_Saw.frmHongSaw.resources
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong_Saw.Properties.Resources.resources
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong Saw.csproj.GenerateResource.Cache
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong Saw.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\Hong Saw\Hong Saw\obj\Debug\Hong Saw.pdb

@@ -1,0 +1,5 @@
+c:\users\jdegrave\documents\visual studio 2015\Projects\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.exe.config
+c:\users\jdegrave\documents\visual studio 2015\Projects\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\ReadFromFile\ReadFromFile\obj\Debug\ReadFromFile.pdb
+c:\users\jdegrave\documents\visual studio 2015\Projects\ReadFromFile\ReadFromFile\bin\Debug\ReadFromFile.pdb

@@ -1,0 +1,9 @@
+c:\users\jdegrave\documents\visual studio 2015\Projects\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe.config
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.exe
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\bin\Debug\DatabaseSample.pdb
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csprojResolveAssemblyReference.cache
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Form1.resources
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.Properties.Resources.resources
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.csproj.GenerateResource.Cache
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.exe
+c:\Users\jdegrave\Documents\Visual Studio 2015\Projects\DatabaseSample\DatabaseSample\obj\Debug\DatabaseSample.pdb

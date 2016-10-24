@@ -1,0 +1,6 @@
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\bin\Debug\Java_Csharp_Homework2.exe.config
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\bin\Debug\Java_Csharp_Homework2.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\bin\Debug\Java_Csharp_Homework2.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\obj\Debug\Java_Csharp_Homework2.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\obj\Debug\Java_Csharp_Homework2.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Java_Csharp_Homework2\Java_Csharp_Homework2\obj\Debug\Java_Csharp_Homework2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\bin\Debug\NewPersonExample.exe.config
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\bin\Debug\NewPersonExample.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\bin\Debug\NewPersonExample.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\obj\Debug\NewPersonExample.csprojResolveAssemblyReference.cache
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\obj\Debug\NewPersonExample.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\NewPersonExample\NewPersonExample\obj\Debug\NewPersonExample.pdb

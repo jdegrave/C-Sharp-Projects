@@ -1,0 +1,3 @@
+2,DeGrave,0.02
+45,Gerber,100
+222,Fluffy,100000.00

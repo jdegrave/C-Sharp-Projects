@@ -1,0 +1,6 @@
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.exe.config
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.XML
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\bin\Release\ConsoleApplication4.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\obj\Release\ConsoleApplication4.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication4\ConsoleApplication4\obj\Release\ConsoleApplication4.pdb

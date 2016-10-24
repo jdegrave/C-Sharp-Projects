@@ -1,0 +1,29 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Polymorphism_Example
+{
+    public class Demo
+    {
+        
+        static void Main(string[] args)
+        {
+            
+            Animal a1 = new Cat();
+            a1.MakeNoise();     //Prints a meow
+
+            Animal a2 = new Dog();
+            a2.MakeNoise();       //Prints bark
+
+            Console.WriteLine();
+            Console.WriteLine("Press Enter to continue ");
+            Console.ReadLine();
+        }
+        
+    } 
+        
+}

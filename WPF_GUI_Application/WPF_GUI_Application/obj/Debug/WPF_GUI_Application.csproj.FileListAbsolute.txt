@@ -1,0 +1,1 @@
+c:\users\jdegrave\documents\visual studio 2015\Projects\WPF_GUI_Application\WPF_GUI_Application\bin\Debug\WPF_GUI_Application.exe.config

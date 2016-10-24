@@ -1,0 +1,6 @@
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\bin\Debug\ErrorHandlingConsoleApp.exe.config
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\obj\Debug\ErrorHandlingConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\bin\Debug\ErrorHandlingConsoleApp.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\bin\Debug\ErrorHandlingConsoleApp.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\obj\Debug\ErrorHandlingConsoleApp.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\ErrorHandling\ErrorHandlingConsoleApp\ErrorHandlingConsoleApp\obj\Debug\ErrorHandlingConsoleApp.pdb

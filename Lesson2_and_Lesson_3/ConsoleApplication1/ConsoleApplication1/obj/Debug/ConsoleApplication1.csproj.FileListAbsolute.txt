@@ -1,0 +1,5 @@
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jdegrave\Documents\Visual Studio 2015\Projects\Lesson2_and_Lesson_3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

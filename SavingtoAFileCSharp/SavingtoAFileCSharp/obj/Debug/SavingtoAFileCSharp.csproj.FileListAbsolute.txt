@@ -1,0 +1,6 @@
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\bin\Debug\SavingtoAFileCSharp.exe.config
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\obj\Debug\SavingtoAFileCSharp.csprojResolveAssemblyReference.cache
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\bin\Debug\SavingtoAFileCSharp.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\bin\Debug\SavingtoAFileCSharp.pdb
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\obj\Debug\SavingtoAFileCSharp.exe
+c:\users\jdegrave\documents\visual studio 2015\Projects\SavingtoAFileCSharp\SavingtoAFileCSharp\obj\Debug\SavingtoAFileCSharp.pdb
